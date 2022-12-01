@@ -10,7 +10,7 @@
 <br />
 
 <a href="https://www.codewars.com/users/rsschool_8174857c709112a4">
-   <img src="https://www.codewars.com/users/rsschool_8174857c709112a4/badges/small" alt="Codewars" height="20"/>
+   <img src="https://www.codewars.com/users/modinessa/badges/small" alt="Codewars" height="20"/>
 </a>
 
 <br />
