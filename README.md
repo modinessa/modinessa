@@ -5,15 +5,15 @@
 
 <a href="https://www.linkedin.com/in/modina-inessa/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/>
-</a>
+</a><br />
+<br />
 
+<img src="https://komarev.com/ghpvc/?username=modinessa&style=flat-square&color=blue" alt=""/><br />
 <br />
 
 <a href="https://www.codewars.com/users/rsschool_8174857c709112a4">
    <img src="https://www.codewars.com/users/modinessa/badges/small" alt="Codewars" height="20"/>
-</a>
-
-<br />
+</a><br />
 <br />
 <br />
 
