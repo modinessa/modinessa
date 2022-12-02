@@ -15,16 +15,19 @@
 
 <br />
 <br />
+<br />
 
 ---
- 
 ### About Me :
 Passionate UI Developer with professional 3D Art experience and a desire to learn and grow in a collaborative team environment. Skilled in HTML, CSS, and JavaScript. Has experience with React.js framework, Redux, Three.js, Bootstrap and other libraries. Excels at creating pixel-perfect and responsive designs. Has a combination of degrees in Graphic Design and Physics.
+
+<br />
 
 ---
 
 ###  Languages and Tools :
 
+<br />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -35,6 +38,21 @@ Passionate UI Developer with professional 3D Art experience and a desire to lear
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+<br />
 
 ---
+
+###  My projects :
+
+* **Phone store project:**
+
+**[Demo](https://react-phone-store-study-project.netlify.app/)**<br />
+
+**[Source](https://github.com/modinessa/react_phone_e-commerce_project)**
+
+* **CV project:**
+
+**[Demo](https://modinessa.github.io/cv-app/)**<br />
+
+**[Source](https://github.com/modinessa/cv-app)**
 
