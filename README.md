@@ -44,20 +44,22 @@ Passionate UI Developer with professional 3D Art experience and a desire to lear
 
 ###  My projects :
 
+* **Pizza Party (in progress):**
+
+**[Demo](https://react-pizza-party.netlify.app/)**<br />
+**[Source](https://github.com/modinessa/react-pizza-party)**
+
 * **Phone store project:**
 
 **[Demo](https://react-phone-store-study-project.netlify.app/)**<br />
-
 **[Source](https://github.com/modinessa/react_phone_e-commerce_project)**
 
 * **CV project :**
 
 **[Demo](https://modinessa.github.io/cv-app/)**<br />
-
 **[Source](https://github.com/modinessa/cv-app)**
 
 * **Todo list :**
 
 **[Demo](https://todo-list-study-project.netlify.app/)**<br />
-
 **[Source](https://github.com/modinessa/react_todo_list)**
