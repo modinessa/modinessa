@@ -44,7 +44,12 @@ Passionate UI Developer with professional 3D Art experience and a desire to lear
 
 ###  My projects :
 
-* **Pizza Party (in progress):**
+* **Travel Portal (in progress...):**
+
+**[Demo](https://travel-advice-portal.netlify.app/)**<br />
+**[Source](https://github.com/modinessa/Travel)**
+
+* **Pizza Party:**
 
 **[Demo](https://react-pizza-party.netlify.app/)**<br />
 **[Source](https://github.com/modinessa/react-pizza-party)**
